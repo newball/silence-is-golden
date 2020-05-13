@@ -6,4 +6,4 @@ This is inspired by the technique WordPress uses.
 
 ## License
 
-Silence is Golden is free software, and is released under the terms of the [gpl-3.0](LICENSE). 
+Silence is Golden is free software, and is released under the terms of the [gpl-3.0](license.txt). 
